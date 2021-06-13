@@ -12,3 +12,5 @@ This template provides the basic framework of the thesis, along with examples of
 + equations
 + Python code blocks
 + citations for journal articles, book chapters, and softwares
+
+Here is a preview of the output: [main.pdf](https://github.com/fzhu2e/usc-thesis-latex/blob/main/main.pdf)
